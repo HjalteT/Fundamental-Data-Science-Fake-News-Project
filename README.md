@@ -7,7 +7,7 @@ These files are:
 
 "995,000_rows.csv",
 
-"bbc_articles.csv
+"bbc_articles.csv"
 
 Note that the code has a line which writes the large data set into a new CSV file of roughly 3GB.
 
