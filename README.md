@@ -5,7 +5,9 @@ These files are:
 
 "news_sample.csv", 
 
-"995,000_rows.csv" and the scraped articles from bbc/news.
+"995,000_rows.csv",
+
+"bbc_articles.csv
 
 Note that the code has a line which writes the large data set into a new CSV file of roughly 3GB.
 
