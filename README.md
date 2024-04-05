@@ -5,3 +5,5 @@ These files are:
 
 news_sample.csv, 995,000_rows.csv and the scraped articles from bbc/news
 
+Otherwise since it is an ipynb, all that is needed to run the code is to click "run all"
+
